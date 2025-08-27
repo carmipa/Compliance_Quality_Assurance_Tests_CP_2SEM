@@ -32,8 +32,4 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 
----
->>>>>>> df8a9683cad758c6d1b62c27e0e591e915487d9d
-
-
 
