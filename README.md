@@ -25,11 +25,20 @@
 ---
 
 ## ⚙️ Tecnologias Utilizadas
+<<<<<<< HEAD
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3.9.0-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit-5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+=======
+- **Java 17**  
+- **Maven**  
+- **JUnit 5**  
+- **Spring Boot** (configuração de projeto)  
+
+---
+>>>>>>> df8a9683cad758c6d1b62c27e0e591e915487d9d
 
 
 
